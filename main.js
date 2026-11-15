@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/g/18v31sBGRk/");
+    window.open("https://apiguinee.org/4/96ad11d45f61aafbe2c97ffe3e52c8b0");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
